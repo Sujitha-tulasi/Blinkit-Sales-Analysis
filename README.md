@@ -47,3 +47,6 @@ Requirements
 •	Peak outlet sales were recorded in 2018 with 205K establishments.<br>
 •	A slight decline in outlet sales was observed in subsequent years.<br>
 
+### Dashboard
+<img src="https://github.com/Sujitha-tulasi/Blinkit-Sales-Analysis/blob/main/Snapshot.png">
+
