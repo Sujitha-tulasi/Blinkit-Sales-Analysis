@@ -20,14 +20,14 @@ Requirements
 11.	**All Metrics by Outlet Type:** Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 
 ### Tools and Technologies Used
-**SQL**
-•	Used for data cleaning, transformation, and aggregation.
+**SQL**<br>
+•	Used for data cleaning, transformation, and aggregation.<br>
 •	Queries were written to calculate total and average sales, item type contribution, fat content analysis, and outlet-wise performance.<br>
-**Power BI**
-•	Used to build an interactive dashboard for visual storytelling.
-•	Implemented KPI cards for Total Sales, Average Sales, Number of Items, and Average Rating.
-•	Designed visualizations such as bar charts, donut charts, and line charts to represent outlet size, item categories, fat content, and establishment trends.
-•	Added filters and drill-downs for outlet location, type, and size to support deeper analysis.
+**Power BI**<br>
+•	Used to build an interactive dashboard for visual storytelling.<br>
+•	Implemented KPI cards for Total Sales, Average Sales, Number of Items, and Average Rating.<br>
+•	Designed visualizations such as bar charts, donut charts, and line charts to represent outlet size, item categories, fat content, and establishment trends.<br>
+•	Added filters and drill-downs for outlet location, type, and size to support deeper analysis.<br>
 
 ### Key Insights
 **Overall Sales Performance**<br>
