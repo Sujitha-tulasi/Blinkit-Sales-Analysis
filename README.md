@@ -22,7 +22,7 @@ Requirements
 ### Tools and Technologies Used
 **SQL**
 •	Used for data cleaning, transformation, and aggregation.
-•	Queries were written to calculate total and average sales, item type contribution, fat content analysis, and outlet-wise performance.
+•	Queries were written to calculate total and average sales, item type contribution, fat content analysis, and outlet-wise performance.<br>
 **Power BI**
 •	Used to build an interactive dashboard for visual storytelling.
 •	Implemented KPI cards for Total Sales, Average Sales, Number of Items, and Average Rating.
@@ -30,20 +30,20 @@ Requirements
 •	Added filters and drill-downs for outlet location, type, and size to support deeper analysis.
 
 ### Key Insights
-**Overall Sales Performance**
-•	Total Sales reached 1.20M with an Average Sales of 141.
-•	Customer Average Rating is 3.92, indicating good satisfaction levels.
-**Outlet Analysis**
-•	Tier 3 outlets generated the highest sales (472.13K), followed by Tier 2 (393.15K) and Tier 1 (336.40K).
-•	Supermarket Type1 contributed the most with 7.87M sales, while Grocery Stores accounted for 1.51M sales.
-•	Medium-sized outlets performed the best, generating 507.90K sales compared to small and large outlets.
-**Item Type Contribution**
-•	Fruits & Vegetables and Snack Foods are the top-selling categories (~0.18M each).
-•	Household Items and Dairy also contributed significantly to sales.
-•	Categories like Seafood and Breakfast recorded the lowest sales.
-**Fat Content Impact**
-•	Regular Fat items dominated sales with 776.32K, while Low Fat items contributed 425.36K.
-•	Outlet Establishment Trend
-•	Peak outlet sales were recorded in 2018 with 205K establishments.
-•	A slight decline in outlet sales was observed in subsequent years.
+**Overall Sales Performance**<br>
+•	Total Sales reached 1.20M with an Average Sales of 141.<br>
+•	Customer Average Rating is 3.92, indicating good satisfaction levels.<br>
+**Outlet Analysis**<br>
+•	Tier 3 outlets generated the highest sales (472.13K), followed by Tier 2 (393.15K) and Tier 1 (336.40K).<br>
+•	Supermarket Type1 contributed the most with 7.87M sales, while Grocery Stores accounted for 1.51M sales.<br>
+•	Medium-sized outlets performed the best, generating 507.90K sales compared to small and large outlets.<br>
+**Item Type Contribution**<br>
+•	Fruits & Vegetables and Snack Foods are the top-selling categories (~0.18M each).<br>
+•	Household Items and Dairy also contributed significantly to sales.<br>
+•	Categories like Seafood and Breakfast recorded the lowest sales.<br>
+**Fat Content Impact**<br>
+•	Regular Fat items dominated sales with 776.32K, while Low Fat items contributed 425.36K.<br>
+•	Outlet Establishment Trend<br>
+•	Peak outlet sales were recorded in 2018 with 205K establishments.<br>
+•	A slight decline in outlet sales was observed in subsequent years.<br>
 
